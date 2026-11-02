@@ -8,3 +8,4 @@ I think I will use this landing page to design a page that will simulate the roa
 Work started, 2nd of November 2026
 
 Trying to figure out the appropriate HTML structure
+Now making sure that the links and colors are aligned, links are not underlined nor bulletpoints appearing by switching text-decorations and list-style-type to none.

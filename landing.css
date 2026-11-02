@@ -1,5 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
+  display: flex;
 }
 
 .logo {
@@ -9,7 +10,28 @@ body {
     background-color: black;    
 }
 
+
+.footer {
+    display: flex;
+    flex-direction: column;
+}
+
 .header,
 .footer {
+    display: flex;
+    color: #F9FAF8;
     background-color: #1F2937
+}
+
+.no-underline {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    color: #F9FAF8;
 }
