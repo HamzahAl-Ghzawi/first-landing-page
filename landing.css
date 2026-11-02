@@ -1,0 +1,15 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    font: 24px;
+    color: #F9FAF8;
+    font-family: 'Roboto',;
+    background-color: black;    
+}
+
+.header,
+.footer {
+    background-color: #1F2937
+}
