@@ -31,5 +31,19 @@ The creation of the information "title" was easier than expected, easy to nest a
 
 However, things aren't always smooth, creating the "cards" were a bit more difficult but once finding out how to make them align centrally made the whole process easier.
 
-At this stage this is expected, so things got tricky once again, I struggled more with adding the text underneath the cards, I had to use multiple HTML wrappers (subtext) for each line of <p> elements and card <divs>, then had to start styling and aligning which was the more difficult work.
+At this stage this is expected, so things got tricky once again, I struggled more with adding the text underneath the cards, I had to use multiple HTML wrappers (subtext) for each line of <p> elements and card <divs>, then had to start styling and aligning which was the more difficult work. 
+
+Next I will start adding the quote section.
+
+
+4th of November 2026
+
+Yesterday I finished the rest of the project but I was too tired to write the rest of the work I done yesterday, what remains is adding actualt texts, quotes and information, so one could say what is remaining is a polish of those things and also adding a picture and a filling the cards with what is seen as a good fit.
+
+The quote section was arguably the most simple feature to add, it was pretty straightforward, just a wrapper then it is pretty much done, had to add a max width and the trickier part was putting the author's name in place, using alignment to the right, but it was not difficult, that was pretty much it for the quote "layer".
+
+Afterwards I continued the work and had to add the blue banner, with another sign up button, it was not bad but I think aligning things required a bit more work, but after the first day's work it was easier to navigate those alignment difficulties, also now I fully understand why justify-content and align-items/content do not "visually" have an effect, it is all about the space.
+
+Also I am starting to understand in a better way the difference between align-items and align-content, that was needed to center the sign up text in the blue banner/button.
+
 
