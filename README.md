@@ -49,7 +49,7 @@ Also I am starting to understand in a better way the difference between align-it
 
 Final README entry for this project, 9:38 PM, 4th of November 2026
 
-Just finished adding pictures, proper text, information, and pictures to suit the added pictures.
+Just finished adding pictures, proper text, information, and subtext to suit the added pictures.
 
 It was nice adding a little serious touch to the page, had a refresher on how to deal with adding pictures and control their dimensions and also add alternate text for screen readers, and this was my first time fitting pictures in a certain box, it is like sticking a card in an empty Album box, also it was a bit tricky.
 
