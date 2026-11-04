@@ -47,3 +47,37 @@ Afterwards I continued the work and had to add the blue banner, with another sig
 Also I am starting to understand in a better way the difference between align-items and align-content, that was needed to center the sign up text in the blue banner/button.
 
 
+Final README entry for this project, 9:38 PM, 4th of November 2026
+
+Just finished adding pictures, proper text, information, and pictures to suit the added pictures.
+
+It was nice adding a little serious touch to the page, had a refresher on how to deal with adding pictures and control their dimensions and also add alternate text for screen readers, and this was my first time fitting pictures in a certain box, it is like sticking a card in an empty Album box, also it was a bit tricky.
+
+What made adding the logo pictures more tricky was the photo types, dimensions were adjusted separately.
+
+
+
+
+
+Things to change in the future:
+
+1- Become less reliant on content-box.
+2- Be more aware of duplicate codes and unnecessary repetitions
+
+
+
+
+
+
+
+
+
+Picture credits: 
+1- The hero picture was generated using Gemini
+2- HTML logo was downloaded from https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg
+3- CSS logo was downloaded from https://1000logos.net/css-logo/
+4- JavaScript logo was downloaded from https://1000logos.net/javascript-logo/
+5- PostgreSQL Logo was downloaded from https://novastor.com/en/features/postgresql
+
+
+
